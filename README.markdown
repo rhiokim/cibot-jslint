@@ -6,12 +6,14 @@ cibot-jslint 는 node.js 기반의 [jslint][1]로 cibot 프로젝트의 일부 �
 
 #install
 
-   --$ npm install cibot-jslint--
+```
+      --$ npm install cibot-jslint--
 
-   or
+      or
 
-   $ git clone git@github.com:rhiokim/cibot-jslint.git
-   $ git submodule update --init
+      $ git clone git@github.com:rhiokim/cibot-jslint.git
+      $ git submodule update --init
+```
 
 #usage
 
