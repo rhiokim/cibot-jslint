@@ -1,14 +1,14 @@
 {
   "author": "rhio kim <rhio.kim@gmail.com> (http://about.me/rhio)",
-  "name": "cibot-lint",
+  "name": "cibot-jslint",
   "description": "Continuous Integration bot",
   "version": "0.0.1",
   "homepage": "http://rhio.tistory.com",
   "repository": {
     "type": "git",
-    "url": "git://github.com/rhiokim/cibot-lint.git"
+    "url": "git://github.com/rhiokim/cibot-jslint.git"
   },
-  "main": "./lib/cibot-lint.js",
+  "main": "./lib/cibot-jslint.js",
   "engines": {
     "node": "~0.6.6"
   },
