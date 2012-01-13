@@ -1,9 +1,17 @@
 #intro
-cibot-jslint 는 node.js 기반의 [jslint][1]로 
+cibot-jslint 는 node.js 기반의 [jslint][1]로 cibot 프로젝트의 일부 모듈로 사용되기 위에 작성되었습니다.
+
+#requirement
+
 
 #install
 
-   $ npm install cibot-jslint
+   --$ npm install cibot-jslint--
+
+   or
+
+   $ git clone git@github.com:rhiokim/cibot-jslint.git
+   $ git submodule update --init
 
 #usage
 
